@@ -1,5 +1,5 @@
 # Medieval II Total War
-This is Fixed Version for Medieval 2 Total War BIN2TXT(Written in Python and BatchFile)
+This is Fixed Version for Medieval 2 Total War BIN2TXT(Written on Python and BatchFile),
 I am fixed to convert binary file to text file in Batchfile!!!
 
 This program made by Alpaca, This fix made by Me!!!
